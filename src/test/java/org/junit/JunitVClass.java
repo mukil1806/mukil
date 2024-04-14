@@ -1,6 +1,6 @@
 package org.junit;
 
 public class JunitVClass {
-	private void mukil() {
+	private void arasan() {
 	}
 }
